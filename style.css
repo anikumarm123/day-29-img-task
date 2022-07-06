@@ -1,0 +1,11 @@
+.flx{
+  display: flex;  
+  justify-content: center;
+}
+.flx{
+    height: 400px;
+}
+.btn{
+    margin: 50px 60px;
+    padding: 10px 30px;
+}
